@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Fathi Ayari/Desktop/kotlin/Affirmations/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.196875" />
+        <entry key="..\:/Users/Fathi Ayari/Desktop/kotlin/Affirmations/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.196875" />
+        <entry key="..\:/Users/Fathi Ayari/Desktop/kotlin/Affirmations/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196875" />
+        <entry key="..\:/Users/Fathi Ayari/Desktop/kotlin/Affirmations/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196875" />
         <entry key="..\:/Users/Fathi Ayari/Desktop/kotlin/Affirmations/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/Fathi Ayari/Desktop/kotlin/Affirmations/app/src/main/res/layout/list_item.xml" value="0.12360688956433637" />
       </map>

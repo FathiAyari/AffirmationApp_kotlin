@@ -1,4 +1,6 @@
 package com.fathi_ayari.affirmations.model
 
-data class Affirmation(val stringResourceId: Int)
+import androidx.annotation.DrawableRes
+
+data class Affirmation(val stringResourceId: Int,@DrawableRes val imageResourceId: Int)
 
