@@ -32,6 +32,7 @@ class ItemAdapter(
         return ItemViewHolder(adapterLayout)
     }
 
+
     /**
      * Replace the contents of a view (invoked by the layout manager)
      */
